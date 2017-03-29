@@ -9,6 +9,7 @@ Es necesario que utilizar un editor de texto, y descargar un plugin para poder a
 ## Configuración
 
 -Lo primero por hacer es crear una carpeta con el nombre del proyecto, y abrir esta carpeta en el editor de texto.
+
 -Se requiere tener instalado node.js 
 
 
