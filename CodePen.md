@@ -7,3 +7,5 @@
            
  Para instalar vars en CodePen se tiene que colocar esta instrucción al inicio del proyecto          
 ![simplevars](https://cloud.githubusercontent.com/assets/23077669/24433912/4a5c45a6-13e9-11e7-8cfa-4263ebf3bdb4.jpeg)
+
+
