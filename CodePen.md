@@ -49,3 +49,19 @@ Ejemplo:
 Y ya compilado debe quedar de la siguiente forma:  
 ![whatsapp image 2017-03-28 at 6 55 29 pm](https://cloud.githubusercontent.com/assets/23077669/24434749/ac55aad6-13ee-11e7-893a-6022c0f5f479.jpeg)  
 
+*************
+
+## Media minmax  
+
+#### La forma de agregar el plugin es:  
+![whatsapp image 2017-03-28 at 6 57 28 pm](https://cloud.githubusercontent.com/assets/23077669/24434976/d47a638e-13ef-11e7-8274-bfc57f82f3eb.jpeg)  
+
+Y lo que hace es lo siguiente: 
+Este plugin te permite utilizar los simbolos de comparacion en CSS.   
+
+De la siguiente manera:  
+![whatsapp image 2017-03-28 at 7 01 56 pm](https://cloud.githubusercontent.com/assets/23077669/24435015/16185b5c-13f0-11e7-91c4-6c541469255e.jpeg)  
+
+Y ya compilado queda asi:  
+![whatsapp image 2017-03-28 at 7 02 02 pm](https://cloud.githubusercontent.com/assets/23077669/24435027/2b87b406-13f0-11e7-9295-50820c25f9d6.jpeg)
+****************** 
