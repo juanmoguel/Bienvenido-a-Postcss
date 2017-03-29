@@ -24,4 +24,28 @@ Este plugin lo que te permite es usar variables estilo *Sass* utilizando el simb
 ## Discard Coments  
 
 #### Para instalar vars en CodePen se tiene que colocar esta instrucción al inicio del proyecto   
-![whatsapp image 2017-03-28 at 6 48 56 pm](https://cloud.githubusercontent.com/assets/23077669/24434417/9e02c77c-13ec-11e7-8431-c425e2943224.jpeg)
+![whatsapp image 2017-03-28 at 6 48 56 pm](https://cloud.githubusercontent.com/assets/23077669/24434417/9e02c77c-13ec-11e7-8431-c425e2943224.jpeg)  
+
+Este plugin te permite ocultar los comentarios que tu hagas en el css para que en el codigo final solo salgan los que tienen la palabra reservada *important*.  
+
+![whatsapp image 2017-03-28 at 6 49 28 pm](https://cloud.githubusercontent.com/assets/23077669/24434459/f1c29ed2-13ec-11e7-8211-aabd04e1c49b.jpeg)  
+
+Este es el resultado final:  
+![whatsapp image 2017-03-28 at 6 49 53 pm](https://cloud.githubusercontent.com/assets/23077669/24434478/0c5ae876-13ed-11e7-8c38-71b873476226.jpeg)
+
+******************
+
+## Custom media  
+
+#### La instalacion de este plugin en CodePen es la siguiente:  
+
+![whatsapp image 2017-03-28 at 6 56 07 pm](https://cloud.githubusercontent.com/assets/23077669/24434652/2fe1a7ca-13ee-11e7-90ed-754392e91aad.jpeg)  
+
+Este plugin te permite definir parametros de CSS en una variable y asi cuando tienes que definir muchas veces una coleccion de colores de letra con un fondo definido y demas opciones solo tienes que escribir la variable y listo.  
+
+Ejemplo:  
+![whatsapp image 2017-03-28 at 6 54 54 pm](https://cloud.githubusercontent.com/assets/23077669/24434744/9bfb2bf2-13ee-11e7-99aa-5f02921cfbc0.jpeg)  
+
+Y ya compilado debe quedar de la siguiente forma:  
+![whatsapp image 2017-03-28 at 6 55 29 pm](https://cloud.githubusercontent.com/assets/23077669/24434749/ac55aad6-13ee-11e7-893a-6022c0f5f479.jpeg)  
+
