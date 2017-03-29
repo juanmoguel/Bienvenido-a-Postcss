@@ -13,7 +13,7 @@ Para solucionar todos estos problmas y facilitarnos el trabajo a la hora de prog
 *Se recomienda antes de instalar un plugin de postCSS probarlo en la pagina de CodePen, ya que ahi es facil instalar o combinal los plugins. (para los usuarios de atom la experiencia se sentira muy familiar)*
 
 ### Simple Vars
-![SimpleVars](github\simplevars.jpeg "Variables")
+                 
 
 
 
