@@ -3,17 +3,13 @@
 ## Antes de empezar           
 Es necesario que utilizar un editor de texto, y descargar un plugin para poder acceder a la terminal en el.
 
+*Para Atom recomendamos el plugin: plataformio-ide-terminal
 
 
+## Configuración
 
-
-
-#### Para instalar vars en CodePen se tiene que colocar esta instrucción al inicio del proyecto          
-![simplevars](https://cloud.githubusercontent.com/assets/23077669/24433912/4a5c45a6-13e9-11e7-8cfa-4263ebf3bdb4.jpeg)
-
-esto le indicara a CodePen que usaras un plugin de *PostCSS* 
-
-Este plugin lo que te permite es usar variables estilo *Sass* utilizando el simbolo de $
+-Lo primero por hacer es crear una carpeta con el nombre del proyecto, y abrir esta carpeta en el editor de texto.
+-Se requiere tener instalado node.js 
 
 
 
